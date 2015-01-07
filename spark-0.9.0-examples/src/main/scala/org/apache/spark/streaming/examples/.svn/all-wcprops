@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples
+END
+NetworkWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/NetworkWordCount.scala
+END
+TwitterAlgebirdCMS.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/TwitterAlgebirdCMS.scala
+END
+QueueStream.scala
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/QueueStream.scala
+END
+StatefulNetworkWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/StatefulNetworkWordCount.scala
+END
+RecoverableNetworkWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/RecoverableNetworkWordCount.scala
+END
+ActorWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/ActorWordCount.scala
+END
+RawNetworkGrep.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/RawNetworkGrep.scala
+END
+KafkaWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/KafkaWordCount.scala
+END
+ZeroMQWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/ZeroMQWordCount.scala
+END
+FlumeEventCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/FlumeEventCount.scala
+END
+TwitterPopularTags.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/TwitterPopularTags.scala
+END
+StreamingExamples.scala
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/StreamingExamples.scala
+END
+HdfsWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/HdfsWordCount.scala
+END
+MQTTWordCount.scala
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/MQTTWordCount.scala
+END
+TwitterAlgebirdHLL.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mysvn/!svn/ver/75/spark-0.9.0-examples/src/main/scala/org/apache/spark/streaming/examples/TwitterAlgebirdHLL.scala
+END
